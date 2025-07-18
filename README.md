@@ -1,2 +1,6 @@
-# Introduction_to_agentic_AIoT_in_Cancer_detection
-Introduction to Agentic AIoT in Cancer Detection and Management 
+# Introduction to Agentic AIoT in Cancer Detection and Manageme
+A book written by:
+# Asal Etaati:
+Coding - Mathematics - Agentic AIoT content 
+# Shakila Hamdi:
+Genetic and medical content
