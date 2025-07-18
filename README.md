@@ -2,5 +2,5 @@
 A book written by:
 # Asal Etaati:
 Coding - Mathematics - Agentic AIoT content 
-# Shakila Hamdi:
+# Shakila Hamdy:
 Genetic and medical content
